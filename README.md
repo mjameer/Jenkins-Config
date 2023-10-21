@@ -59,6 +59,7 @@ sudo apt-get install jenkins
 http://<ec2-instance-public-ip-address>:8080    [You can get the ec2-instance-public-ip-address from your AWS EC2 console page]
 
 Note: If you are not interested in allowing `All Traffic` to your EC2 instance
+
       - Delete the inbound traffic rule for your instance
       - Edit the inbound traffic rule to only allow custom TCP port `8080`
   
