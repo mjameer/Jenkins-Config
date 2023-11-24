@@ -1,4 +1,4 @@
-# Jenkins-Config
+# Configure Jenkins and Docker in AWS EC2 Instance
 
 ### Installation on EC2 Instance
 
